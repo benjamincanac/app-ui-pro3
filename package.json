@@ -13,11 +13,14 @@
   "dependencies": {
     "@iconify-json/lucide": "^1.2.26",
     "@iconify-json/simple-icons": "^1.2.24",
-    "@nuxt/ui-pro": "https://pkg.pr.new/@nuxt/ui-pro@07cf107",
+    "@nuxt/ui-pro": "3.0.0-beta.3",
     "nuxt": "^3.15.4"
   },
   "devDependencies": {
     "typescript": "^5.7.3",
     "vue-tsc": "^2.2.2"
+  },
+  "resolutions": {
+    "vue-tsc": "2.2.2"
   }
 }
